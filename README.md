@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+My name is Jim and this my first GitHub repository.
